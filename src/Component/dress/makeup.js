@@ -41,7 +41,6 @@ const SkeletonLoader = () => {
     </>
   );
 };
-
 const MakeupList = () => {
   const [isLoading, setIsLoading] = useState(true);
 

@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./Component/skleton.css";
 
 const Skeleton = () => {
+  //
   return (
     <li className={styles.skeletontem}>
       <div>

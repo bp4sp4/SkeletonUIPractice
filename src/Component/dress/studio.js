@@ -86,7 +86,6 @@ const StudioList = () => {
     // Render skeleton UI while loading
     return <SkeletonLoader />;
   }
-
   return (
     <div>
       <Nav />

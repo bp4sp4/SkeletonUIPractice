@@ -5,7 +5,6 @@ import defaultImage from "../../img/default.png";
 import Nav from "../nav";
 
 const SkeletonLoader = () => {
-  // Replace this with your skeleton loading UI
   return (
     <>
       <h1>loading</h1>
