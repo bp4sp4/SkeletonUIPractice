@@ -3,6 +3,12 @@
 <h1>23/12/05</h1>
 <p>프로젝트 진행시간 : 4시간</p>
 
+<h1>홈페이지 최종결과화면</h1>
+로딩전
+<img width="1791" alt="스크린샷 2023-12-05 오후 7 25 34" src="https://github.com/bp4sp4/SkeletonUIPractice/assets/62207757/14d16a3b-8f80-489a-bc07-02f80b22fdfd">
+로딩후
+<img width="1791" alt="스크린샷 2023-12-05 오후 7 23 33" src="https://github.com/bp4sp4/SkeletonUIPractice/assets/62207757/44a75b2f-59ff-4a74-9f16-1f6e9cdf10c6">
+
 <h2>📌 프로젝트 진행이유</h2>
 
 - 현재 진행하고 있는 프로젝트 <a href="https://github.com/bp4sp4/WeddingVideoPage">웨딩러리</a> 에서 가지고 있는 json 형태의 스튜디오,드레스,메이크업 좋은 데이터가 있기 떄문에 하게되었다.
