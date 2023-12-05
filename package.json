@@ -22,9 +22,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://bp4sp4.github.io/SkeletonUIPractice/"
+    "homepage": "https://bp4sp4.github.io/SkeletonUIPractice"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
