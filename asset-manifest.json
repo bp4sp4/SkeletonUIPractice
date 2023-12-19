@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5248c3f3.css",
-    "main.js": "/static/js/main.62b32cb4.js",
-    "static/js/787.adeff590.chunk.js": "/static/js/787.adeff590.chunk.js",
-    "static/media/default.png": "/static/media/default.d62198fcaf4bf8c55a72.png",
-    "index.html": "/index.html",
-    "main.5248c3f3.css.map": "/static/css/main.5248c3f3.css.map",
-    "main.62b32cb4.js.map": "/static/js/main.62b32cb4.js.map",
-    "787.adeff590.chunk.js.map": "/static/js/787.adeff590.chunk.js.map"
+    "main.css": "/SkeletonUIPractice/static/css/main.5248c3f3.css",
+    "main.js": "/SkeletonUIPractice/static/js/main.effbaa37.js",
+    "static/js/787.adeff590.chunk.js": "/SkeletonUIPractice/static/js/787.adeff590.chunk.js",
+    "static/media/default.png": "/SkeletonUIPractice/static/media/default.d62198fcaf4bf8c55a72.png",
+    "index.html": "/SkeletonUIPractice/index.html",
+    "main.5248c3f3.css.map": "/SkeletonUIPractice/static/css/main.5248c3f3.css.map",
+    "main.effbaa37.js.map": "/SkeletonUIPractice/static/js/main.effbaa37.js.map",
+    "787.adeff590.chunk.js.map": "/SkeletonUIPractice/static/js/787.adeff590.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5248c3f3.css",
-    "static/js/main.62b32cb4.js"
+    "static/js/main.effbaa37.js"
   ]
 }
