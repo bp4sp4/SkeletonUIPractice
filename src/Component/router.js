@@ -6,7 +6,7 @@ import StudioList from "./dress/studio";
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<DressList />} />
         <Route path="/dress/makeup" element={<MakeupList />} />
