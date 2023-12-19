@@ -1,5 +1,11 @@
 # React 스켈레톤 UI 연습
 
+## 스켈레톤 UI연습 - <a href="https://bp4sp4.github.io/SkeletonUIPractice/">데모사이트</a>
+
+<h1>23/12/19</h1>
+
+- 데모사이트 추가
+
 <h1>23/12/05</h1>
 <p>프로젝트 진행시간 : 4시간</p>
 
